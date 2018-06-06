@@ -1,0 +1,9 @@
+rootProject.name = 'chaos-maker-root'
+
+String[] modules = [
+    'chaos-core',
+    'chaos-api',
+    'chaos-demo',
+]
+
+include modules
